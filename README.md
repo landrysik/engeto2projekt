@@ -1,1 +1,1 @@
-# engeto2projekt
+Druhý projekt do Python Akademie
